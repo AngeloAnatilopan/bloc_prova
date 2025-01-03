@@ -76,7 +76,7 @@ class Body extends StatelessWidget {
                     builder: (context, showIconState) {
                       return Icon(
                         showIconState.icon, // Icona dinamica
-                        size: 100, // Dimensione dell'icona
+                        size: 100, // Dimensione dell'icon
                         color: Colors.black, // Colore dell'icona
                       );
                     },
